@@ -1,0 +1,17 @@
+body {
+    background:blueviolet;
+    font-family: "Arial"
+}
+header {
+    background: blak;
+    color: white 
+}
+header a{
+    color: white
+}
+a {
+    color: green
+}
+#frida {
+    width: 100%
+}
